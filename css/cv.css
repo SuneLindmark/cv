@@ -1,11 +1,23 @@
 .name{
-    text-align:left;
-    border-style:double;
+    float: left;
+    border-style:solid;
+    width: 20%;
+    height: 355px;
+    
 }
 .info{
-    text-align:right;
-    border-style:double;
+    border-style:solid;
+    width: 100%;
+    height: 355px;
+    margin: left;
 }
 .PrevEx{
-    border-style:double;
+    border-style:solid;
+    height: 355px;
+    width: 100%;
+}
+.qualif{
+    border-style:solid;
+    width: 100%;
+    height: 355px;
 }
